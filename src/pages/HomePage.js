@@ -6,9 +6,9 @@ function HomePage(props) {
   return (
     <div>
       <Hero
-        title="hello lynard"
-        subTitle="this is subtitle"
-        text="this is text"
+        // title="Software Developer"
+        subTitle="Software Developer"
+        text="Based in Auckland"
       />
       <Carousel />
     </div>

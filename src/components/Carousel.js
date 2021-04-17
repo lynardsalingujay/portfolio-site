@@ -4,7 +4,7 @@ import Card from "../components/Card";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 
-import camp from "../assets/images/camp.jpg";
+import astronaut from "../assets/images/astronaut.jpg";
 import mac from "../assets/images/mac.jpg";
 import macbook from "../assets/images/macbook.jpg";
 
@@ -17,7 +17,7 @@ class Carousel extends React.Component {
           id: 0,
           title: "hello",
           subTitle: "subHello",
-          imgSrc: camp,
+          imgSrc: astronaut,
           link: "http://devgrub.com",
           selected: false,
         },
