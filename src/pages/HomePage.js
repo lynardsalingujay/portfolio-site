@@ -1,16 +1,15 @@
-import React from "react";
-import Hero from "../components/Hero";
-import Carousel from "../components/Carousel";
+import React from 'react';
+import Hero from '../components/Hero';
+// import Carousel from '../components/Carousel';
 
 function HomePage(props) {
   return (
     <div>
       <Hero
-        // title="Software Developer"
-        subTitle="Software Developer"
-        text="Based in Auckland"
+        title='Dev / Student'
+        subTitle='Based in Auckland'
+        text='Skills: Python, Java, React, Docker'
       />
-      <Carousel />
     </div>
   );
 }
