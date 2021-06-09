@@ -8,7 +8,7 @@ function HomePage(props) {
       <Hero
         title='Dev / Student'
         subTitle='Based in Auckland'
-        text='Skills: Python, Java, React, Docker'
+        text='Skills and Interests: Python, Java, React, Docker, Cybersecurity'
       />
     </div>
   );
